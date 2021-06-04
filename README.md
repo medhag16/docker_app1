@@ -14,3 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+A mobile app created on flutter framework that gives the user an interface to run docker from the mobile app . The user can select from the different menus and also the information about the different options in docker is provided. On the backend HTTPD server and CGI is used.
