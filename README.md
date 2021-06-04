@@ -1,8 +1,14 @@
+
 # Docker_app
 
 A new Flutter project.
 
 A mobile app created on flutter framework that gives the user an interface to run docker from the mobile app . The user can select from the different menus and also the information about the different options in docker is provided. On the backend HTTPD server and CGI is used.
+
+
+https://user-images.githubusercontent.com/51082122/120850980-ccb2c900-c595-11eb-92a9-4c7901646405.mp4
+
+
 
 ## Getting Started
 
